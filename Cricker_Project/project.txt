@@ -1,0 +1,15 @@
+1. Display - Nepal V/s India ( Cricket Match )
+
+2. Team members ( team 1 / 11 players name ) ( team 2 / 11 players name )
+
+3. Toss ( Head/ Tail ) in random function
+
+4. Toss winner ( bating ) 
+
+5. 5 over game  
+
+6. 1st over = 6 ball / run = 0,1,2,3,4,6, w ( wicket = 119 ASCII value )
+
+7. 2nd over = 6 ball / run = 0,1,2,3,4,6, w ( wicket = 119 ASCII value )
+
+7. result Win/ Lose/ Draw
