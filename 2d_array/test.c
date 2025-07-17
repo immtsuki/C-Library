@@ -1,3 +1,4 @@
+//WAP to add two matrix/ Comparing dimensions to make sure they are eligible for the objective
 #include <stdio.h>
 
 int i, j, row, column, a_size, b_size;
