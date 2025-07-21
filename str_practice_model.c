@@ -1,4 +1,4 @@
-// Basic String Practice Model  ( Includes ASCII representatoin, String Function, String Comparision )
+// Basic String Practice Model  ( Includes String Theory, ASCII representatoin, String Function, String Comparision )
 #include <stdio.h>
 #include <string.h>
 int main(){
