@@ -26,7 +26,7 @@ int main(){
 	*/
 	
 
-	// Remove " / " to activate the code ( Remember to close after using )
+	// Remove " / " to activate the code ( Remember to deactivate after using )
 	// Ctrl + . ( Activates / Comments the code )
 	// Ctrl + , ( Deactivates / Uncomments the code )
 	
