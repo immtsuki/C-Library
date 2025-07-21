@@ -12,7 +12,7 @@ int main () {
 	
 	int marks[n][3], total_obtained[n], avg[n];
 	char stu_name[n][50];
-	
+	sub
 	for (i=0; i<n; i++) {
 		printf("\nName of student %d : ",i+1);
 		scanf("%s", &stu_name[i]);
